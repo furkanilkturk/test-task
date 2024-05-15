@@ -8,7 +8,7 @@
 </script>
 
 <div class="flex h-screen w-screen">
-	<div class="bg-image bg-cover bg-center w-[550px] hidden lg:block">
+	<div class="bg-image bg-cover bg-center w-[550px] hidden lg:block z-10">
 		<div class="logo">
 			<a href="/">
 				<img src="/logo-dark.svg" alt="logo" class="w-[100px] fixed top-1/2 left-[220px]" /></a
