@@ -13,7 +13,7 @@ export default {
 				sans: ['Lato', 'sans-serif']
 			},
 			backgroundImage: {
-				image: 'url(bg.jpg)'
+				image: 'url(/bg.jpg)'
 			}
 		}
 	},
