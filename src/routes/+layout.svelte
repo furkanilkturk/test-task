@@ -5,6 +5,12 @@
 	import '@fontsource/lato/900.css';
 
 	import { page } from '$app/stores';
+	import { onMount } from 'svelte';
+	import firebase from '$lib/firebase';
+
+	onMount(() => {
+		firebase;
+	});
 </script>
 
 <div class="flex h-screen w-screen">
